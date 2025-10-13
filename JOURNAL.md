@@ -12,7 +12,7 @@ You can view this journal in more detail on **Hack Club Blueprint** [here](https
 
 ## 10/13/2025 - Bought parts - LOOONG time ago  
 
-## Well, it was a long time ago.
+### Well, it was a long time ago.
 I bought most of the parts needed. I spent about 2h finding the parts, and I bought them, since it was before I heard of hack club. Now I'm actually going to use those parts...
 
 #### Missing:
