@@ -24,11 +24,27 @@ Pretty much all that's missing is the pcb designing and buying, which I want fun
 
 I have a _bit_ more, but these are the main things.  
 
-## 10/17/2025 - Was Stupid  
+## 10/17/2025 12 PM - Was Stupid  
 
 ### Well, I was.
 Originally, when I bought the stuff, I planned to do this on a breadboard. Now, when I revived this project, I thought to work on a pcb. Now, after trying to find an esp32 dev board footprint,and trying to create one when I didn't find it, I decided it wasn't worth it.
 
 ![Screenshot from 2025-10-13 16-06-07.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjYyMSwicHVyIjoiYmxvYl9pZCJ9fQ==--e7a8267fb4d656d24c06166cd17e7760a867a7dd/Screenshot%20from%202025-10-13%2016-06-07.png)
   
+
+## 10/17/2025 1 PM - Started experimenting  
+
+## Did a bit of experimenting
+#### Controller:
+So far, I have the joystick wired. Because of the angle of the joystick pins, the controller is going to be held with the dev board sideways.
+
+![20251017_130259.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjYyNCwicHVyIjoiYmxvYl9pZCJ9fQ==--483a7bdb55cb8ea5869c3a82a96a745659ac22fe/20251017_130259.jpg)
+
+
+#### Car:
+I discovered that the battery supply I want to use will support power only for a couple minutes, but I don't really car(e) ;)
+
+This is what I have on the car so far:
+
+![20251017_130235.jpg](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjYyMywicHVyIjoiYmxvYl9pZCJ9fQ==--280f93f1d9b1bfee0690fe4f3e1e971565efa131/20251017_130235.jpg)  
 
