@@ -24,3 +24,11 @@ Pretty much all that's missing is the pcb designing and buying, which I want fun
 
 I have a _bit_ more, but these are the main things.  
 
+## 10/17/2025 - Was Stupid  
+
+### Well, I was.
+Originally, when I bought the stuff, I planned to do this on a breadboard. Now, when I revived this project, I thought to work on a pcb. Now, after trying to find an esp32 dev board footprint,and trying to create one when I didn't find it, I decided it wasn't worth it.
+
+![Screenshot from 2025-10-13 16-06-07.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjYyMSwicHVyIjoiYmxvYl9pZCJ9fQ==--e7a8267fb4d656d24c06166cd17e7760a867a7dd/Screenshot%20from%202025-10-13%2016-06-07.png)
+  
+
